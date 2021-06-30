@@ -2,7 +2,7 @@
 (People Who make me shine)
 
 ### Hi there I'm Kinesys(Phantester K) 👋 (해당 계정은 부계정입니다)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Kinesys)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mastics)](https://hits.seeyoufarm.com) 
 
 [![Github Badge](http://img.shields.io/badge/-Github%20-black?style=flat-square&logo=github&link=https://github.com/kinesys)](https://github.com/kinesys)
 [![Blog Badge](http://img.shields.io/badge/-Blog%20-black?style=flat-square&logo=Stitcher&link=https://github.com/kinesys)](https://kinesys.github.io)
