@@ -18,7 +18,6 @@
 ## Header
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Mastics%20Github&fontSize=90)
 
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsph9245)](https://solved.ac/dsph9245)
 
 ## About 
 - 💻 My future dream is White hacker. 
