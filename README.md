@@ -16,8 +16,8 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?style=for-the-badge&url=https://github.com/Kaiser)](https://hits.seeyoufarm.com) 
 
-![9vSM](https://user-images.githubusercontent.com/67867993/141971270-617e5ce1-8bab-4c63-a4b2-de0c5c71727f.gif)
-  
+![tumblr_mj1rawSltN1s6ej4bo1_500](https://user-images.githubusercontent.com/86749773/143304370-96def318-c888-457e-a448-7f5efbae089c.gif)
+
   
 [![Github Badge](http://img.shields.io/badge/-Github%20-black?style=for-the-badge&logo=github&link=https://github.com/Phantester-Kaiser)](https://github.com/apasys)
 [![Blog Badge](http://img.shields.io/badge/-Blog%20-black?style=for-the-badge&logo=Stitcher&link=https://github.com/Phantester-Kaiser)](https://Phantester-Kaiser.github.io)
