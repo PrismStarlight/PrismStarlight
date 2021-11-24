@@ -5,12 +5,11 @@
   
 (People Who make me shine)
 
-  ## Main Github 
-  [![Github Badge](http://img.shields.io/badge/Apasys%20-black?style=for-the-badge&logo=github&link=https://https://github.com/Apasys)](https://github.com/Apasys)
+   [![Github Badge](http://img.shields.io/badge/-Phantester%20-black?style=for-the-badge&logo=github&link=https://github.com/Phantester)](https://github.com/Phantester)
 
   
- [![Github Badge](http://img.shields.io/badge/-Phantester%20-black?style=for-the-badge&logo=github&link=https://github.com/Phantester)](https://github.com/Phantester)
-
+  ## Main Github 
+  [![Github Badge](http://img.shields.io/badge/Apasys%20-black?style=for-the-badge&logo=github&link=https://https://github.com/Apasys)](https://github.com/Apasys)
 
   
 ## Hi there I'm Kaiser 👋
