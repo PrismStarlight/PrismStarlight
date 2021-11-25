@@ -54,7 +54,7 @@
 
 ## About 
 - 💻  My future dream is White hacker & AI Developer. 
-- 🌱  I'm currently learning  Pwnable & Webhacking & Forensic & Deep Learning 
+- 🌱  I'm currently learning  Pwnable & Reversing & Forensic & Deep Learning 
 - 🔭  I'm always interested in new security issues and new programming language for development.
 - 🐼  I like creative and new development elements.
 - ✉️  I don’t want not be irresponsible for development.
