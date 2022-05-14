@@ -1,9 +1,5 @@
 <div align="center">
   
-  ## Main Github 
-  [![Github Badge](http://img.shields.io/badge/Apasys%20-black?style=for-the-badge&logo=github&link=https://https://github.com/Apasys)](https://github.com/Apasys)
-
-  
 ## Hi there I'm PrismStar 👋
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?style=for-the-badge&url=https://github.com/Kaiser)](https://hits.seeyoufarm.com) 
