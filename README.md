@@ -12,8 +12,6 @@
 
 ![Apasys GitHub stats](https://github-readme-stats.vercel.app/api?username=Phantester-Kaiser&show_icons=true&theme=react)
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=Phantester-Kaiser&theme=react)](https://github.com/Phantester-Kaiser)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantester-Kaiser&langs_count=10&layout=compact&show_icons=true&theme=react)](https://github.com/Phantester-Kaiser/github-readme-stats)
 
   
